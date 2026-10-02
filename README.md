@@ -12,7 +12,7 @@ I work across the whole product: architecture, Flutter client, backend, structur
 
 **Stack:** Flutter, Dart, Riverpod, GoRouter, Drift, Supabase, PostgreSQL, Edge Functions
 
-The production repositories are currently private.
+The production repositories are currently private.\n\n**[Read the Wild Herbarium engineering case study](./wild-herbarium-case-study.md)**
 
 ### 🤖 AI / ML
 I use AI extensively in day-to-day engineering work and in my own experiments, including:
