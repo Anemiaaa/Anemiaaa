@@ -31,13 +31,24 @@ I also use AI for practical 3D and CAD work, including:
 - geometry iteration from technical requirements
 - AI-assisted prototyping for physical product ideas
 
+## Selected public projects
+
+### [Pokémon Table](https://github.com/Anemiaaa/pokemon_table)
+UIKit app using PokeAPI with networking, CoreData persistence, image caching, pagination, and coordinator-style navigation.
+
+### [Car Wash Simulation](https://github.com/Anemiaaa/Car-Wash-Simulation-Swift-OOP-RxSwift-playground)
+Swift playground focused on OOP, protocol-oriented design, RxSwift, worker hierarchy modeling, and basic concurrency.
+
+### [Snake MFC Game](https://github.com/Anemiaaa/SnakeGit)
+C++ / MFC desktop project with local SQLite score storage and extensions built on top of an existing Snake codebase.
+
 ## Tech I use
 
 **Mobile & application development**  
-Flutter · Dart · Swift · Clean Architecture · Riverpod · GoRouter · Drift
+Flutter · Dart · Swift · UIKit · Clean Architecture · Riverpod · GoRouter · Drift
 
 **Backend & data**  
-Supabase · PostgreSQL · REST APIs · Edge Functions · SQL
+Supabase · PostgreSQL · REST APIs · Edge Functions · SQL · CoreData
 
 **AI & experimentation**  
 LLMs · AI agents · multimodal AI · ML experimentation · prompt / workflow design
